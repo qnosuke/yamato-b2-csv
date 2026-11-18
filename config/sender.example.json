@@ -1,0 +1,11 @@
+{
+  "sender_tel": "03-0000-0000",
+  "sender_zip": "100-0001",
+  "sender_addr": "東京都千代田区千代田1-1-1",
+  "sender_addr2": "",
+  "sender_name": "株式会社サンプル物流",
+  "name_kana": "ｻﾝﾌﾟﾙ",
+  "billing_customer_code": "0000000000",
+  "billing_class": "",
+  "freight_manage_no": "01"
+}

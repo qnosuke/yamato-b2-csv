@@ -1,0 +1,10 @@
+# 自分の値を入れる設定ファイル(公開しない)
+config/sender.json
+
+# 生成物
+output/
+
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
